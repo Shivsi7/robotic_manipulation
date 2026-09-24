@@ -46,3 +46,6 @@ ps3/assets/
 # Handout build area: dist/public is the instructor's clone of the public
 # handouts repo (make handout writes into it), dist/build is LaTeX aux
 dist/
+
+# Pickled simulation runs behind ps1/problem10.pdf and problem11.pdf (large, regenerable)
+ps1/results_10_11/
